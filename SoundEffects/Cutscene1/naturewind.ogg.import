@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/naturewind.ogg-1f40b354e9da8cc581934576fcb902a1.oggstr"
+
+[deps]
+
+source_file="res://SoundEffects/Cutscene1/naturewind.ogg"
+dest_files=[ "res://.import/naturewind.ogg-1f40b354e9da8cc581934576fcb902a1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

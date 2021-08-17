@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sadmusic1.ogg-fe6a381d4f12d66ebb6417dac3611a70.oggstr"
+
+[deps]
+
+source_file="res://SoundEffects/Cutscene1/sadmusic1.ogg"
+dest_files=[ "res://.import/sadmusic1.ogg-fe6a381d4f12d66ebb6417dac3611a70.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
